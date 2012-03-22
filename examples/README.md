@@ -1,4 +1,4 @@
-This is a bunch of little demo apps using Share.js.
+That is a bunch of little demo apps using Share.js.
 
 Launch the example sharejs server with
 
